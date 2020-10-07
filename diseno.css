@@ -1,0 +1,119 @@
+body{
+	background: #7CF1BC;
+	width: 1350px;
+	height: 800px;
+}
+.cuadro1{
+	display: block;
+	position: absolute;
+	top: 15px;
+	left: 145px;
+	background: blue;
+	border:solid black 2px;
+	width: 250px;
+	height: 117px;
+}
+.cuadro2{
+	display: block;
+	position: absolute;
+	top: 215px;
+	left: 145px;
+	background: red;
+	border:solid black 2px;
+	width: 250px;
+	height: 116px;
+}
+.cuadro3{
+	display: block;
+	position: absolute;
+	top: 415px;
+	left: 145px;
+	background: yellow;
+	border:solid black 2px;
+	width: 250px;
+	height: 116px;
+}
+.irque{
+	position: relative;
+	top: -28px;
+	left: 165px;
+	background: #F1BC7C;
+	border:solid black 2px;
+	width: 60px;
+	height: 20px;
+	padding: 15px;
+	font-size: 30px;
+	color: black;
+}
+.ireje{
+	position: relative;
+	top: -28px;
+	left: 165px;
+	background: #F1BC7C;
+	border:solid black 2px;
+	width: 60px;
+	height: 20px;
+	padding: 15px;
+	font-size: 30px;
+	color: black;
+}
+.irpro{
+	position: relative;
+	top: -28px;
+	left: 165px;
+	background: #F1BC7C;
+	border:solid black 2px;
+	width: 60px;
+	height: 20px;
+	padding: 15px;
+	font-size: 30px;
+	color: black;
+}
+.trabajo{
+	position: relative;
+	top: 140px;
+	left:570px;
+	height: 258px;
+	width: 555px;
+	background-image: url(bienvenida.jpg);
+}
+.nada{
+	position: relative;
+	top: 140px;
+	left:620px;
+	background-image: url(bienvenida.jpg);
+	align-items: center;
+	text-align: center;
+}
+.que{
+	position: relative;
+	top: 140px;
+	left:570px;
+	height: 258px;
+	width: 555px;
+	background-image: url(definicion.jpg);
+}
+.eje{
+	position: relative;
+	top: 140px;
+	left:570px;
+	height: 258px;
+	width: 555px;
+	background-image: url(ejemplo.jpg);
+}
+.Opera{
+	position: absolute;
+	display: inline;
+	display: block;
+	background-image: url(fondo.jpg);
+}
+.si{
+	display: inline;
+	top: 140px;
+	left: 570px;
+	height: 258px;
+	width: 555px;
+	display: block;
+	background-image: url(fondo.jpg);
+	position: absolute;
+}
